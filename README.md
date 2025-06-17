@@ -40,7 +40,7 @@ pip install numpy pandas nltk gensim scikit-learn
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/sarcasm-detection.git
+   git clone git@github.com:Man0sh-r0y/Sarcasm-Detection-using-NLP.git
 
    ```
 2. Open the notebook in Jupyter or Google Colab and run all cells in order.
