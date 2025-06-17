@@ -34,7 +34,7 @@ pip install numpy pandas nltk gensim scikit-learn
 * Gensim (for Word2Vec embeddings)
 * Scikit-learn
 * Pandas, NumPy
-* Matplotlib / Seaborn (optional for visualization)
+* Matplotlib / Seaborn
 
 ## 📌 How to Run
 
